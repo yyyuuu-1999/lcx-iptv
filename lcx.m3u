@@ -1,12 +1,38 @@
-民视频道,#genre#  
-民视HD,http://37.27.111.214:8080/live/6/hls.m3u8
-
 TVBS频道,#genre#  
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+ 
  
 
-EBC东森新闻,#genre#  
-EBC东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
+台视新闻,#genre#  
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+ 
+
+東森频道,#genre#  
+東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
+東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+EBC东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8 
+
+华语电视,#genre#  
+华语电视,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+华语电视,http://38.64.72.148:80/hls/modn/list/4002/chunklist1.m3u8
+华语电视,http://38.64.72.148:80/hls/modn/list/4003/chunklist1.m3u8
+华语电视,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+ 
+
+民视频道,#genre#  
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+民视HD,http://37.27.111.214:8080/live/6/hls.m3u8
+ 
+台视新闻,#genre#  
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+ 
+ 
 
 其他电视台,#genre#  
 民视,rtmp://f13h.mine.nu/sat/tv051
@@ -66,7 +92,10 @@ http://37.27.111.214:8080/live/8/hls.m3u8
 财富天下,http://123.113.249.203:8888/rtp/239.3.1.53:9136
 
 第一财经,#genre# 
+第一财经,http://origin.lean.org.cn:4000/udp/239.45.3.211:5140
+
 第一财经,http://gslbservzqhsw.itv.cmvideo.cn/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+第一财经,http://gslbservzqhsw.itv.cmvideo.cn/5000000010000027146/1.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 
 
 重温经典,#genre#  
