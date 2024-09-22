@@ -3,7 +3,10 @@ TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
- 
+
+三立新闻,#genre#   
+LIVE三立,https://stream1.freetv.fun/d199101b211d2efeb52e94bf3f8cfe100c586f3d1825ba547c29d259dde928e8.ctv
+LIVE三立,https://stream1.freetv.fun/d199101b211d2efeb52e94bf3f8cfe100c586f3d1825ba547c29d259dde928e8.ctv
  
 
 台视新闻,#genre#  
@@ -15,6 +18,9 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
 東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 EBC东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8 
+EBC东森新闻,https://stream1.freetv.fun/34438cfe544b494f8d68c7620c788c161e9bc0d59b6261d14b67c8c7900b084f.m3u8
+
+
 
 华语电视,#genre#  
 华语电视,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
@@ -27,6 +33,9 @@ EBC东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视HD,http://37.27.111.214:8080/live/6/hls.m3u8
+民视新闻台:https://stream1.freetv.fun/b63bf1df7bf1e2c47a873d3987c2d59a08d8e4dfed1e197bce7e791eb64eb16e.m3u8
+
+ 
  
 台视新闻,#genre#  
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -94,8 +103,12 @@ http://37.27.111.214:8080/live/8/hls.m3u8
 第一财经,#genre# 
 第一财经,http://origin.lean.org.cn:4000/udp/239.45.3.211:5140
 
-第一财经,http://gslbservzqhsw.itv.cmvideo.cn/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
-第一财经,http://gslbservzqhsw.itv.cmvideo.cn/5000000010000027146/1.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
+第一财经,http://gslbservzqhsw.itv.cmvideo.cn/5000000010000017540/1.m3u8?channel-
+
+id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+第一财经,http://gslbservzqhsw.itv.cmvideo.cn/5000000010000027146/1.m3u8?channel-
+
+id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 
 
 重温经典,#genre#  
