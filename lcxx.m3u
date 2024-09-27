@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:-1 group-title="﻿三立新闻",LIVE三立
-https://stream1.freetv.fun/d199101b211d2efeb52e94bf3f8cfe100c586f3d1825ba547c29d259dde928e8.ctv
-#EXTINF:-1 group-title="﻿三立新闻",LIVE三立
-https://stream1.freetv.fun/d199101b211d2efeb52e94bf3f8cfe100c586f3d1825ba547c29d259dde928e8.ctv
-#EXTINF:-1 group-title="TVBS频道",TVBS NEWS
+#EXTINF:-1 group-title="﻿TVBS频道",TVBS NEWS
 http://61.221.215.25:8800/hls/9/index.m3u8
-#EXTINF:-1 group-title="TVBS频道",TVBS亚洲
+#EXTINF:-1 group-title="﻿TVBS频道",TVBS亚洲
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-#EXTINF:-1 group-title="TVBS频道",TVBS亚洲
+#EXTINF:-1 group-title="﻿TVBS频道",TVBS亚洲
 http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 group-title="TVBS频道",TVBS亚洲
+#EXTINF:-1 group-title="﻿TVBS频道",TVBS亚洲
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="三立新闻",LIVE三立
+https://stream1.freetv.fun/d199101b211d2efeb52e94bf3f8cfe100c586f3d1825ba547c29d259dde928e8.ctv
+#EXTINF:-1 group-title="三立新闻",LIVE三立
+https://stream1.freetv.fun/d199101b211d2efeb52e94bf3f8cfe100c586f3d1825ba547c29d259dde928e8.ctv
 #EXTINF:-1 group-title="台视新闻",台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 group-title="台视新闻",台视新闻
@@ -57,6 +57,10 @@ http://194.87.101.118/live.m3u8?c=8
 rtmp://f13h.mine.nu/sat/tv581
 #EXTINF:-1 group-title="华视新闻",华视新闻
 http://37.27.111.214:8080/live/8/hls.m3u8
+#EXTINF:-1 group-title="梨园频道",梨园频道
+http://angtv.cc/jd/gdlz.php?id=lypd
+#EXTINF:-1 group-title="梨园频道",梨园频道
+http://121.24.99.16:8090/hls/45/index.m3u8
 #EXTINF:-1 group-title="梨园频道",梨园频道
 http://39.88.44.216:3333/udp/239.253.254.139:8000
 #EXTINF:-1 group-title="梨园频道",河南戏剧
@@ -116,6 +120,8 @@ http://123.120.8.52:4022/rtp/239.3.1.53:9136
 #EXTINF:-1 group-title="财富天下",财富天下
 http://123.113.249.203:8888/rtp/239.3.1.53:9136
 #EXTINF:-1 group-title="第一财经",第一财经
+http://101.81.238.167:4022/udp/239.45.3.211:5140
+#EXTINF:-1 group-title="第一财经",第一财经
 http://origin.lean.org.cn:4000/udp/239.45.3.211:5140
 #EXTINF:-1 group-title="第一财经",第一财经
 http://gslbservzqhsw.itv.cmvideo.cn/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
@@ -123,6 +129,10 @@ http://gslbservzqhsw.itv.cmvideo.cn/5000000010000017540/1.m3u8?channel-id=bestzb
 http://gslbservzqhsw.itv.cmvideo.cn/5000000010000027146/1.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 #EXTINF:-1 group-title="重温经典",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+#EXTINF:-1 group-title="重温经典",重温经典
+http://120.76.248.139/live/bfgd/4200000635.m3u8
+#EXTINF:-1 group-title="重温经典",重温经典
+http://120.76.248.139/live/bfgd/4200000636.m3u8
 #EXTINF:-1 group-title="好消息频道",好消息频道
 http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 #EXTINF:-1 group-title="好消息频道",好消息频道
