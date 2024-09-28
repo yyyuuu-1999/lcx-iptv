@@ -11,6 +11,20 @@ http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 https://stream1.freetv.fun/d199101b211d2efeb52e94bf3f8cfe100c586f3d1825ba547c29d259dde928e8.ctv
 #EXTINF:-1 group-title="三立新闻",LIVE三立
 https://stream1.freetv.fun/d199101b211d2efeb52e94bf3f8cfe100c586f3d1825ba547c29d259dde928e8.ctv
+#EXTINF:-1 group-title="三立新闻",三立新聞
+https://stream1.freetv.fun/san-li-xin-wen-4.m3u8
+#EXTINF:-1 group-title="三立新闻",三立新闻
+https://stream1.freetv.fun/san-li-xin-wen-2.ctv
+#EXTINF:-1 group-title="三立新闻",三立新聞
+https://stream1.freetv.fun/san-li-xin-wen-6.ctv
+#EXTINF:-1 group-title="中天新闻",中天新闻
+https://stream1.freetv.fun/zhong-tian-xin-wen-6.ctv
+#EXTINF:-1 group-title="中天新闻",中天新闻
+https://stream1.freetv.fun/zhong-tian-xin-wen-5.m3u8
+#EXTINF:-1 group-title="中天新闻",中天新闻
+https://stream1.freetv.fun/zhong-tian-xin-wen-4.ctv
+#EXTINF:-1 group-title="中天新闻",中天新聞
+https://stream1.freetv.fun/zhong-tian-xin-wen-7.ctv
 #EXTINF:-1 group-title="台视新闻",台视新闻
 http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 group-title="台视新闻",台视新闻
@@ -23,6 +37,12 @@ http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 http://37.27.111.214:8080/live/20/hls.m3u8
 #EXTINF:-1 group-title="東森频道",EBC东森新闻
 https://stream1.freetv.fun/34438cfe544b494f8d68c7620c788c161e9bc0d59b6261d14b67c8c7900b084f.m3u8
+#EXTINF:-1 group-title="東森频道",东森新闻
+https://stream1.freetv.fun/dong-sen-xin-wen-5.ctv
+#EXTINF:-1 group-title="東森频道",東森新聞
+https://stream1.freetv.fun/dong-sen-xin-wen-1.m3u8
+#EXTINF:-1 group-title="東森频道",東森新聞
+https://stream1.freetv.fun/dong-sen-xin-wen-8.ctv
 #EXTINF:-1 group-title="华语电视",华语电视
 http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
 #EXTINF:-1 group-title="华语电视",华语电视
@@ -53,8 +73,12 @@ rtmp://f13h.mine.nu/sat/tv091
 rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 group-title="其他电视台",公视
 http://194.87.101.118/live.m3u8?c=8
-#EXTINF:-1 group-title="其他电视台",非凡新闻
+#EXTINF:-1 group-title="非凡新闻",非凡新闻
 rtmp://f13h.mine.nu/sat/tv581
+#EXTINF:-1 group-title="非凡新闻",非凡新聞
+rtmp://f13h.mine.nu/sat/tv581
+#EXTINF:-1 group-title="非凡新闻",非凡新聞
+https://stream1.freetv.fun/fei-fan-xin-wen-2.ctv
 #EXTINF:-1 group-title="华视新闻",华视新闻
 http://37.27.111.214:8080/live/8/hls.m3u8
 #EXTINF:-1 group-title="梨园频道",梨园频道
