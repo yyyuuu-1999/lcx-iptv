@@ -7,7 +7,16 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 三立新闻,#genre#   
 LIVE三立,https://stream1.freetv.fun/d199101b211d2efeb52e94bf3f8cfe100c586f3d1825ba547c29d259dde928e8.ctv
 LIVE三立,https://stream1.freetv.fun/d199101b211d2efeb52e94bf3f8cfe100c586f3d1825ba547c29d259dde928e8.ctv
- 
+三立新聞,https://stream1.freetv.fun/san-li-xin-wen-4.m3u8
+三立新闻,https://stream1.freetv.fun/san-li-xin-wen-2.ctv
+三立新聞,https://stream1.freetv.fun/san-li-xin-wen-6.ctv
+
+
+中天新闻,#genre#  
+中天新闻,https://stream1.freetv.fun/zhong-tian-xin-wen-6.ctv
+中天新闻,https://stream1.freetv.fun/zhong-tian-xin-wen-5.m3u8
+中天新闻,https://stream1.freetv.fun/zhong-tian-xin-wen-4.ctv
+中天新聞,https://stream1.freetv.fun/zhong-tian-xin-wen-7.ctv
 
 台视新闻,#genre#  
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -20,7 +29,9 @@ LIVE三立,https://stream1.freetv.fun/d199101b211d2efeb52e94bf3f8cfe100c586f3d18
 EBC东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8 
 EBC东森新闻,https://stream1.freetv.fun/34438cfe544b494f8d68c7620c788c161e9bc0d59b6261d14b67c8c7900b084f.m3u8
 
-
+东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-5.ctv
+東森新聞,https://stream1.freetv.fun/dong-sen-xin-wen-1.m3u8
+東森新聞,https://stream1.freetv.fun/dong-sen-xin-wen-8.ctv
 
 华语电视,#genre#  
 华语电视,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
@@ -49,13 +60,19 @@ EBC东森新闻,https://stream1.freetv.fun/34438cfe544b494f8d68c7620c788c161e9bc
 中视,rtmp://f13h.mine.nu/sat/tv091
 华视,rtmp://f13h.mine.nu/sat/tv111
 公视,http://194.87.101.118/live.m3u8?c=8
-非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 
+
+非凡新闻,#genre# 
+非凡新闻,rtmp://f13h.mine.nu/sat/tv581
+非凡新聞,rtmp://f13h.mine.nu/sat/tv581
+非凡新聞,https://stream1.freetv.fun/fei-fan-xin-wen-2.ctv
 
 华视新闻,#genre#  
-http://37.27.111.214:8080/live/8/hls.m3u8
+华视新闻,http://37.27.111.214:8080/live/8/hls.m3u8
 
 梨园频道,#genre#  
+梨园频道,http://angtv.cc/jd/gdlz.php?id=lypd
+梨园频道,http://121.24.99.16:8090/hls/45/index.m3u8
 梨园频道,http://39.88.44.216:3333/udp/239.253.254.139:8000
 河南戏剧,http://ik6.iptv8.net:8888/rtp/225.1.4.99:1128
 
@@ -101,18 +118,17 @@ http://37.27.111.214:8080/live/8/hls.m3u8
 财富天下,http://123.113.249.203:8888/rtp/239.3.1.53:9136
 
 第一财经,#genre# 
+第一财经,http://101.81.238.167:4022/udp/239.45.3.211:5140
 第一财经,http://origin.lean.org.cn:4000/udp/239.45.3.211:5140
 
-第一财经,http://gslbservzqhsw.itv.cmvideo.cn/5000000010000017540/1.m3u8?channel-
-
-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
-第一财经,http://gslbservzqhsw.itv.cmvideo.cn/5000000010000027146/1.m3u8?channel-
-
-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
+第一财经,http://gslbservzqhsw.itv.cmvideo.cn/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+第一财经,http://gslbservzqhsw.itv.cmvideo.cn/5000000010000027146/1.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 
 
 重温经典,#genre#  
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
+重温经典,http://120.76.248.139/live/bfgd/4200000636.m3u8
 
 
 好消息频道,#genre#  
