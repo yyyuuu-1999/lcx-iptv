@@ -13,8 +13,8 @@ LIVE三立,https://stream1.freetv.fun/d199101b211d2efeb52e94bf3f8cfe100c586f3d18
 
 
 中天新闻,#genre#  
-中天新闻,https://stream1.freetv.fun/zhong-tian-xin-wen-6.ctv
-中天新闻,https://stream1.freetv.fun/zhong-tian-xin-wen-5.m3u8
+中天新闻,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MB0B9546410395464103&ct=19249&tsum=30c62d7eec5ce9a49a64c3fa3ff8a8b7
+中天新闻,http://ali.hlspull.yximgs.com/live/tboxpropqqtvvqqqyquuqqfvbscvqdqtwqfsqqsqqqcvuyqemqeqtxw.flv
 中天新闻,https://stream1.freetv.fun/zhong-tian-xin-wen-4.ctv
 中天新聞,https://stream1.freetv.fun/zhong-tian-xin-wen-7.ctv
 
