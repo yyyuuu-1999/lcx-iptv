@@ -8,11 +8,11 @@ http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 group-title="﻿TVBS频道",TVBS亚洲
 http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 group-title="三立新闻",LIVE三立
-https://stream1.freetv.fun/d199101b211d2efeb52e94bf3f8cfe100c586f3d1825ba547c29d259dde928e8.ctv
+http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
 #EXTINF:-1 group-title="三立新闻",LIVE三立
 https://stream1.freetv.fun/d199101b211d2efeb52e94bf3f8cfe100c586f3d1825ba547c29d259dde928e8.ctv
 #EXTINF:-1 group-title="三立新闻",三立新聞
-https://stream1.freetv.fun/san-li-xin-wen-4.m3u8
+http://211.72.65.236:8543/.m3u8
 #EXTINF:-1 group-title="三立新闻",三立新闻
 https://stream1.freetv.fun/san-li-xin-wen-2.ctv
 #EXTINF:-1 group-title="三立新闻",三立新聞
