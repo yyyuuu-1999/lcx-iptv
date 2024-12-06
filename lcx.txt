@@ -1,4 +1,4 @@
-799759中天新闻,#genre#  
+中天新闻,#genre#  
 中天新闻,https://stream1.freetv.fun/zhong-tian-xin-wen-5.m3u8
 
 中天新闻,https://stream1.freetv.fun/0efa038ef8b00da22a46c019893c5170b1b49731e8b26ede0655c7f76e5dbfa7.ctv
